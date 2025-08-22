@@ -24,7 +24,8 @@ This project is a front-end practice exercise to sharpen web design skills by re
 ## 📸 Screenshots  
 
 ### Homepage Preview  
-*(Add a screenshot of your homepage here — e.g. `![App Screenshot](screenshot.png)`)*  
+<img width="4164" height="7248" alt="127 0 0 1_5500_" src="https://github.com/user-attachments/assets/4cdf9de4-24e9-460a-a3bf-622d57452992" />
+
 
 ---
 
@@ -34,7 +35,5 @@ This project is a front-end practice exercise to sharpen web design skills by re
 - **CSS3** – for styling & layout  
 
 ---
-
-## 📂 Project Structure  
-
+## Made by Yudin with ❤️ & ☕ in Nepal
 
